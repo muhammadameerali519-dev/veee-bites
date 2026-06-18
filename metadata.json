@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Vee Bite Restaurant",
+  "description": "A premium, luxury, and responsive restaurant website for Vee Bite featuring their full Pakistani fast food menu, dynamic ordering, and an interactive AI food assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
